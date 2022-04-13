@@ -1,3 +1,14 @@
 body {
   background-color: lightblue;
 }
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  color: white;
+  
+<img src="pic_trulli.jpg" alt="Italian Trulli"> 
